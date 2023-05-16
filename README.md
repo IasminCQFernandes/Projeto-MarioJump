@@ -1,3 +1,3 @@
 # Projeto-MarioJump
-
-Jogue <a href="https//iasmincqfernandes.github.io/Projeto-MarioJump/"> AQUI! </a>
+Mini-game Mario Jump!
+Jogue <a href="https://iasmincqfernandes.github.io/Projeto-MarioJump/"> AQUI! </a>
